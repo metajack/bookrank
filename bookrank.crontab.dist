@@ -1,0 +1,1 @@
+13 4 * * * /path/to/bookrank.py /path/to/config.json /path/to/rankdata.json

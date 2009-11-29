@@ -1,0 +1,12 @@
+{
+    "books": [
+        {"name": "Professional XMPP",
+         "asin": "0470540710"},
+        {"name": "XMPP: TDG",
+         "asin": "059652126X"}
+    ],
+
+    "access_key": "...",
+    "secret_key": "...",
+    "associate_tag": "..."
+}
